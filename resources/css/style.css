@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: Helvetica, sans-serif;
 }
 #header, .newyork {
   background-image: url("../images/the-flatiron-building.png");
@@ -7,18 +8,15 @@ body {
   background-size: cover;
 }
 h1 {
-  font-family: Helvetica, sans-serif;
   font-size: 100px;
   color: white;
   font-weight: bold;
 }
 a.navigation {
   color: white;
-  font-family: Helvetica, sans-serif;
   font-size: 18px;
 }
 #process {
-  font-family: Helvetica, sans-serif;
   font-weight: bold;
 }
 #process p {
@@ -26,7 +24,6 @@ a.navigation {
 }
 .newyork h2 {
   color: white;
-  font-family: Helvetica, sans-serif;
   font-size: 23px;
   font-weight: bold;
 }
